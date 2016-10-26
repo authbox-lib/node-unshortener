@@ -1,7 +1,7 @@
 {
   "name": "unshortener",
   "description": "A simple library that can unshorten any short url",
-  "version": "0.1.1",
+  "version": "0.1.1-smyte-1",
   "homepage": "https://github.com/authbox-lib/node-unshortener",
   "repository": {
     "type": "git",
@@ -11,9 +11,6 @@
   "main": "./index.js",
   "directories": {
     "lib": "."
-  },
-  "engines": {
-    "node": "0.4 || 0.5 || 0.6 || 0.8"
   },
   "files": [
     ""
